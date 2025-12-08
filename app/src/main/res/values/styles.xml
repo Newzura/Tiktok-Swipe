@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Ce style agit comme un pont.
+         Il hérite d'un thème de base Android et sert de point d'entrée pour le Manifest.
+         L'interface réelle est stylisée par Theme.kt dans le code Compose. -->
+    <style name="Theme.TiktokBluetoothSwiper" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tiktok Bluetooth Swiper</string>
+    <string name="accessibility_service_label">Contrôleur TikTok</string>
+    <string name="accessibility_service_description">Permet de contrôler TikTok avec un appareil Bluetooth pour swiper les vidéos.</string>
+</resources>
