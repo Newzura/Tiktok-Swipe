@@ -7,14 +7,14 @@ Contrôlez TikTok avec les boutons de votre casque Bluetooth ! 🎧
 Application Android qui permet de contrôler TikTok en utilisant les boutons media de votre casque Bluetooth :
 - **Swipe UP** : Bouton Next (ou Volume Down)
 - **Swipe DOWN** : Bouton Previous (ou Volume Up)  
-- **Play/Pause** : Pause/Play la vidéo
+- **Play/Pause** : Pause/Play la vidéo // En cours
 
 L'application utilise un **AccessibilityService** pour dispatcher les gestes et une **MediaSession** pour intercepter les événements Bluetooth.
 
 ## ✨ Fonctionnalités
 
 - ✅ Détection automatique de TikTok au foreground
-- ✅ Gestion des boutons media du Bluetooth (Next, Previous, Play/Pause)
+- ✅ Gestion des boutons media du Bluetooth (Next, Previous) //En cours  : Play/Pause
 - ✅ Gestion du focus audio
 - ✅ Notification persistante (foreground service)
 - ✅ Interface de debug pour voir les touches détectées
