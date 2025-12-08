@@ -33,3 +33,6 @@ L'application utilise un **AccessibilityService** pour dispatcher les gestes et 
 À Faire : 
 
 - Ajout de la fonction Play/Pause
+
+Attention, l'APK compilé n'a pas les signatures, elle est inutilisable pour l'instant.
+Vous pouvez toujours compiler avec Android Studio
