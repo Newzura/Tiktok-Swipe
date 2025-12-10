@@ -1,20 +1,20 @@
-# TikTok Bluetooth Swiper
+# TikTok & Instagram Bluetooth Swiper
 
-Contrôlez TikTok avec les boutons de votre casque Bluetooth ! 🎧
+Contrôlez TikTok et Instagram avec les boutons de votre casque Bluetooth ! 🎧
 
 ## 📋 Description
 
-Application Android qui permet de contrôler TikTok en utilisant les boutons media de votre casque Bluetooth :
+Application Android qui permet de contrôler TikTok et Instagram en utilisant les boutons media de votre casque Bluetooth :
 - **Swipe UP** : Bouton Next (ou Volume Down)
 - **Swipe DOWN** : Bouton Previous (ou Volume Up)  
-- **Play/Pause** : Pause/Play la vidéo *En projet*
+- **Play/Pause** : Pause/Play la vidéo
 
 L'application utilise un **AccessibilityService** pour dispatcher les gestes et une **MediaSession** pour intercepter les événements Bluetooth.
 
 ## ✨ Fonctionnalités
 
-- ✅ Détection automatique de TikTok au foreground
-- ✅ Gestion des boutons media du Bluetooth (Next, Previous)
+- ✅ Détection automatique de TikTok ou Instagram au foreground
+- ✅ Gestion des boutons media du Bluetooth (Next, Previous, Play, Pause)
 - ✅ Gestion du focus audio
 - ✅ Notification persistante (foreground service)
 - ✅ Interface de debug pour voir les touches détectées
@@ -32,4 +32,5 @@ L'application utilise un **AccessibilityService** pour dispatcher les gestes et 
 
 À Faire : 
 
-- Ajout de la fonction Play/Pause
+Correction de bug mineur.
+Ajout d'un UI plus simple et explicatif pour la configuration.
